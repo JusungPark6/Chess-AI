@@ -1,5 +1,8 @@
 # Chess
 
+This is my project for my class COSC 76: Artifical Intelligence where I used Minimax algorithms, Transpositional Tables, Alpha-Beta Pruning, Iterative Deepening Search, and tailored evaluation functions to create a high-functioning chess program.
+
+
 ### How to Play
 When running test_chess.py, it will prompt the level of depth of which the AI will be functioning with. 
 
